@@ -6,5 +6,7 @@ Requirement :
 - install joblib (pip install joblib)
 
 How to use :
+
 cd projects/api
+
 python api.py
